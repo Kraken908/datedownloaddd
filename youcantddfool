@@ -1,0 +1,2 @@
+#edit this one liner to whatever time you wish :-)
+sudo date -s "10 JAN 2021 12:00:00" 
